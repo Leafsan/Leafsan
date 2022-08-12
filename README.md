@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leafsan
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning 'Game programing'
+- 👀 I’m interested in making games, cloud architect
+- 🌱 I’m currently learning 'Game programing, react, flutter, aws'
 - 💞️ I’m looking to collaborate on nothing...right now.
 - 📫 How to reach me : cwk0906@naver.com, cwk950906@gmail.com
 
